@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Manik Hosen (@rahathossenmanik)<br>I am a front-end developer from southern Asia. I work on basis of MERN stack. I am highly skilled at React. I am professional with the other technologies of MERN.<br>I have completed almost 4 projects in MERN stack. I have basically worked on front-end side and slightly in backend side.<br><br>👀 I’m interested in Scala, Ruby and React Native<br>🌱 I’m currently learning React Native<br>📫 Reach Me: rahathossenmanik@gmail.com
+👋 Hi, I’m Manik Hosen (@rahathossenmanik(https://github.com/rahathossenmanik))<br>I am a front-end developer from southern Asia. I work on basis of MERN stack. I am highly skilled at React. I am professional with the other technologies of MERN.<br>I have completed almost 4 projects in MERN stack. I have basically worked on front-end side and slightly in backend side.<br><br>👀 I’m interested in Scala, Ruby and React Native<br>🌱 I’m currently learning React Native<br>📫 Reach Me: rahathossenmanik@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahathosenmanik)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahathosenmanik)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahathossenmanik)
@@ -13,7 +13,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Manik-Hosen-2)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9495126) 
 
-# 💻 Tech Stack:
+# 💻 My Skills & Interests:
 
 ### Basics
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -110,7 +110,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rahathossenmanik&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Donate Me
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Rastercell) 
 
   
