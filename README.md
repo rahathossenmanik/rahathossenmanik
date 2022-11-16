@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👤 About Me:
 👋 Hi, I’m Manik Hosen ([@rahathossenmanik](https://github.com/rahathossenmanik))<br>I am a front-end developer from southern Asia. I work on basis of MERN stack. I am highly skilled at React. I am professional with the other technologies of MERN.<br>I have completed almost 4 projects in MERN stack. I have basically worked on front-end side and slightly in backend side.<br><br>👀 I’m interested in Scala, Ruby and React Native<br>🌱 I’m currently learning React Native<br>📫 Reach Me: rahathossenmanik@gmail.com
 
 
