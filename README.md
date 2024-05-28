@@ -38,6 +38,8 @@
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/topics/scss?q=user:rahathossenmanik)
 
 #### Experinced in Technologies and Libraries
+[![REST API](https://img.shields.io/badge/REST_API-00BCD4?style=for-the-badge&logo=rest&logoColor=white)](https://github.com/topics/rest-api?q=user:rahathossenmanik)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/topics/graphql?q=user:rahathossenmanik)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/topics/react-router?q=user:rahathossenmanik)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
