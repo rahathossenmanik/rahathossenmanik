@@ -82,7 +82,7 @@ My primary strength is **frontend engineering**, while I am also comfortable wor
 
 ## 📌 Featured Projects
 - **Trainmate** – React-based transport information platform (live users, real data)
-- **Raster API** – Modular API architecture with scalable design
+- **Tutorial Sheet** – Simple WordPress React theme for education website
 
 > Some production code is private due to company policy.  
 > Public repositories focus on **architecture, patterns, and code quality**.
